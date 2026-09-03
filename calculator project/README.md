@@ -1,15 +1,15 @@
-Simple Calculator
+_Simple Calculator_
 A simple calculator project built using Python. This application performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 Features:
- Addition(+)
- Subtraction(-)
- Multiplication(*)
- Division(/)
- Perform multiple calculations
-Division by zero handling
-Simple and user-friendly interface
-Technologies Used
-Python 3
+ -Addition(+)
+ -Subtraction(-)
+ -Multiplication(*)
+ -Division(/)
+ -Perform multiple calculations
+-Division by zero handling
+-Simple and user-friendly interface
+-Technologies Used
+-Python 3
 📂 Project Structure
 Calculator-Project/
 │
