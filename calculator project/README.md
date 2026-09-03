@@ -1,4 +1,6 @@
 _Simple Calculator_
+
+
 A simple calculator project built using Python. This application performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 Features:
  -Addition(+)
@@ -11,11 +13,16 @@ Features:
 -Technologies Used
 -Python 3
 📂 Project Structure
+
+
+
 Calculator-Project/
 │
 ├── calculator.py
 └── README.md
 ▶️ How to Run the Project:
+
+
 1. Clone the Repository
 git clone <your-repository-link>
 2. Go to the Project Folder
